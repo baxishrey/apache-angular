@@ -6,6 +6,10 @@ This project was created on Ubuntu 18.0.4 and is meant to be run on a Linux mach
 
 This is the front-end of a full stack application. The backend is an <a href="https://github.com/baxishrey/apache-dotnet-core-webapi">ASP.NET Core WebApi.</a> Please clone the backend to run the app properly.
 
+## Preparation
+
+After cloning the app, open a terminal in the directory containing `package.json`. Run `npm install`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
